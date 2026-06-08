@@ -1,7 +1,7 @@
 
 # AWS Resource Tracker using Shell Scripting
 
-Real time AWS Project using SHELL SCRIPTING for DevOps.This script will report the AWS resource usage.
+Real time AWS Project using SHELL SCRIPTING for DevOps. This script will report the AWS resource usage.
 
 ### Demo
 
