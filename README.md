@@ -1,7 +1,7 @@
 
 # AWS Resource Tracker using Shell Scripting
 
-Real time AWS Project using SHELL SCRIPTING for DevOps. This script will report the AWS resource usage.
+Real time AWS Project using SHELL SCRIPTING for DevOps.This script will report the AWS resource usage.
 
 ### Demo
 
@@ -12,6 +12,18 @@ Connect to EC2 instance using bash
 Install AWS CLI
 ```bash
   sudo apt install awscli
+```
+Configure AWS CLI
+
+```bash
+  aws configure
+```
+Enter: 
+```bash
+AWS Access Key ID:
+AWS Secret Access Key:
+Default region name: 
+Default output format: json
 ```
 Clone this project
 ```
