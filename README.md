@@ -13,18 +13,6 @@ Install AWS CLI
 ```bash
   sudo apt install awscli
 ```
-Configure AWS CLI
-
-```bash
-  aws configure
-```
-Enter: 
-```bash
-AWS Access Key ID:
-AWS Secret Access Key:
-Default region name: 
-Default output format: json
-```
 Clone this project
 ```
 git clone https://github.com/nikhilsadawarti/AWS-Resource-Tracker-using-Shell-Scripting
